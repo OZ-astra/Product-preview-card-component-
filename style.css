@@ -30,8 +30,8 @@ body {
 
 .perfume-title {
     font-family: "montserrat", sans-serif;
-    font-weight: 700;
-    font-size: 2em;
+    font-weight: 500;
+    font-size: 2.5em;
     letter-spacing: 0.5em;
     color: hsl(228, 12%, 48%);
     margin-top: 2.5em;
@@ -57,14 +57,19 @@ body {
     
 }
 
+.perfume-price {
+    display: flex;
+    align-items: center;
+}
+
 #discount-price {
     font-family: "fraunces" , sans-serif;
-    font-size: 5em;
+    font-size: 6em;
     color: hsl(158, 36%, 37%);
 }
 
 #original-price {
-    font-size: 1.5em;
+    font-size: 2.5em;
     text-decoration: line-through;
     margin-left: 2.5em;
     color: hsl(228, 12%, 48%);;
@@ -81,6 +86,7 @@ body {
     width: 85%;
     margin: auto;
     margin-top: 2em;
+    margin-right: 3em;
     border-radius: 1.2em;
     
 }
@@ -90,7 +96,7 @@ body {
 }
 
 .attribution {
-    font-size: .9em; 
+    font-size: 1em; 
     text-align: center;
     margin-top: 1em;
 }
@@ -133,7 +139,7 @@ body {
     
     .perfume-title {
         font-size: .5em;
-        letter-spacing: 0.2em;
+        letter-spacing: 0.5em;
         margin-top: 3em
     }
     
