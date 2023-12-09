@@ -9,5 +9,3 @@
   ### intro
 This is a challange from frontend mentor
 
-### screenshot
-[product-preview-card](https://product-preview-card-component-nwju.onrender.com/)
