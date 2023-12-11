@@ -1,11 +1,13 @@
 <!--@format-->
 # PRODUCT-PREVIEW-CARD-COMPONENT---HTML-CSS
-## Table of Content
-- [intro](#intro)
-- [screenshot](#screenshot)
-- [tools](#tools)
-- [outro](#outro)
 
-  ### intro
+  ## Intro
 This is a challange from frontend mentor
+
+## Tools Used
+- HTML
+- CSS
+
+  ## CSS Propery Used
+  - Flexbox
 
