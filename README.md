@@ -2,7 +2,7 @@
 # PRODUCT-PREVIEW-CARD-COMPONENT---HTML-CSS
 
   ## Intro
-This is a challange from [frontend mentor]()
+This is a challange from [frontend mentor](https://www.frontendmentor.io/solutions/i-used-display-flex-to-create-the-two-containers-in-my-desktop-design-9BpptLPCn9)
 
 ## Tools Used
 - HTML(semantic html)
